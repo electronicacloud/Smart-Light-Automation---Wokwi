@@ -65,6 +65,5 @@ Dark conditions produce high analog values
 
 Bright conditions produce low analog values 
 
-
 PROJECT FILE:
 Smart Light Automation.zip
