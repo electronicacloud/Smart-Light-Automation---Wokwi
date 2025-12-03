@@ -3,6 +3,10 @@
 This project simulates an automatic lighting system using an LDR (Light Dependent Resistor) module and an Arduino Uno.
 The LED automatically turns ON in darkness and OFF in brightness.
 
+Link to runthe simulation in Wokwi:
+
+https://wokwi.com/projects/449302949419568129
+
 <img width="584" height="439" alt="image" src="https://github.com/user-attachments/assets/cee89783-0389-42f6-9435-2450e35478f8" />
 
 A 220 ohm resistor is used to limit the current drawn by the LED.
